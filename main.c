@@ -3,12 +3,9 @@
 int main(){
 
     printf("Olá Raul");
-<<<<<<< HEAD
-    printf("olá pedro")
+    printf("Olá pedro")
+    printf("Olá kevin")
+    printf("Olá Luan")
 
-=======
-    printf("olá kevin")
-    printf("olá Luan")
->>>>>>> 4face061745b12fc75973e94efe02dad99d85dab
     return 0;
 }
