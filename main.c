@@ -8,7 +8,7 @@ int main(){
 
 =======
     printf("olá kevin")
-    printf("olá Luands")
+    printf("olá Luan")
 >>>>>>> 4face061745b12fc75973e94efe02dad99d85dab
     return 0;
 }
