@@ -4,7 +4,7 @@ int main(){
 
     printf("Olá Raul");
 <<<<<<< HEAD
-    printf("olá pedri")
+    printf("olá pedro")
 
 =======
     printf("olá kevin")
